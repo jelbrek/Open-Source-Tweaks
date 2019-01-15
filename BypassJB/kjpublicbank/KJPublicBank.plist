@@ -1,0 +1,1 @@
+{ Filter = { Bundles = ( "com.kjbank.smart.public.pbanking" ); }; }

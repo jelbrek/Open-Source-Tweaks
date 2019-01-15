@@ -1,0 +1,9 @@
+Package: com.xsf1re.lottegiftcardbypass
+Name: LotteGiftCardBypass
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
