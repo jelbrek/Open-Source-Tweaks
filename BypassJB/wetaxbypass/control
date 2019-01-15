@@ -1,0 +1,9 @@
+Package: com.xsf1re.wetaxbypass
+Name: wetaxBypass
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 스마트 위택스 앱의 탈옥 감지를 우회시킵니다. 3.0.19버전에서 확인 완료.
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
