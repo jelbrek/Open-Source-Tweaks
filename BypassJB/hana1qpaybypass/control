@@ -1,0 +1,9 @@
+Package: com.xsf1re.hana1qpaybypass
+Name: Hana1QPayBypass
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
